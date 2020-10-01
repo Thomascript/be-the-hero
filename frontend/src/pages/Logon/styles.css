@@ -20,8 +20,8 @@
 }
 
 .logon-container section.form form h1 {
-    font-size: 32px;
-    margin-bottom: 32px;
+    font-size: 33px;
+    margin-bottom: 33px;
 }
 
 .logon-container section.form form input {
@@ -45,5 +45,5 @@
 }
 
 .logon-container section.form form a:hover {
-    opacity: 0.8;
+    opacity: 0.9;
 }
